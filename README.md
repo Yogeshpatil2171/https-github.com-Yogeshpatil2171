@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   </a>
-  <a href="https://github.com/Yogeshpatil2171" target="_blank">
+  <a href="https://www.instagram.com/hmm.yogeshh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
   <a href="tel:+91 9145217156">
